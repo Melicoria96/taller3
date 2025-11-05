@@ -1,0 +1,83 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Asap:ital,wght@0,100..900;1,100..900&family=MuseoModerno:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+img{
+    image-rendering: auto;
+    font-family: "Roboto regular & bold", sans-serif;
+    font-size: 13px;
+    color: blue;
+}
+h2{
+    font-family: "Roboto regular & bold", sans-serif;
+    font-size: 13px;
+    color: blue;
+}
+h1{
+    font-family: "Roboto Slab bold", sans-serif;
+    font-size: 96px;
+    color: #02aff1;
+}
+p{
+    font-family: "Roboto regular", sans-serif;
+    font-size: 34px;
+    color: blue;
+}
+input{
+    width: 500px;
+    height: 50px;
+}
+textarea{
+    width: 500px;
+    height: 100px;
+}
+button id{
+    width: 150px;
+    height: 30px;
+    background-color: yellow;
+
+}
+button class{
+    width: 150px;
+    height: 30px;
+    background-color: blue;
+}
+footer h2{
+    font-family: "Roboto Slab bold", sans-serif;
+    font-size: 25px;
+    color: blue;
+}
+footer strong{
+    font-family: "Robote Slab bold", sans-serif;
+    font-size: 13px;
+    color: blue;
+}
+footer p{
+    font-family: "Roboto regular & bold", sans-serif;
+    font-size: 13px;
+    color: blue;
+}
+button{
+    font-family: "Roboto Slab bold", sans-serif;
+    font-size: 24pt;
+    background-color: white;
+
+}
+footer h2{
+    font-family: "Roboto Slab bold", sans-serif;
+    font-size: 25px;
+    color: blue;
+}
+footer strong{
+    font-family: "Roboto Slab bold",sans-serif;
+    font-size: 13px;
+    color: blue;
+}
+footer p{
+    font-family: "Roboto regular & bold", sans-serif;
+    font-size: 13px;
+    color: blue;
+}
+button{
+    font-family: "Roboto Slab bold", sans-serif;
+    font-size: 24pt;
+    background-color: white;
+}
